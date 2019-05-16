@@ -1,6 +1,6 @@
 # Description off the project
 
-This is a simple news app created using react and redux.
+This is a simple news app created using React and Redux.
 
 ## Up and running the app
 In the project directory, run in your terminal `npm install` and then `npm start`
